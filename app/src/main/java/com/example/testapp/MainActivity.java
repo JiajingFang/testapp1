@@ -26,8 +26,8 @@ public class MainActivity extends Activity implements OnClickListener {
     }
     public void onClick(View v)
     {
-        Toast.makeText(this, "Hello world!", Toast.LENGTH_SHORT).show();
-        return;
+//        Toast.makeText(this, "Hello world!", Toast.LENGTH_SHORT).show();
+//        return;
     }
 
 
